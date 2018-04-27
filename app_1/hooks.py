@@ -11,6 +11,8 @@ app_color = "grey"
 app_email = "x"
 app_license = "MIT"
 
+fixtures = ["Custom Field"]
+
 # Includes in <head>
 # ------------------
 
