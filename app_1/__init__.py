@@ -6,6 +6,6 @@ __version__ = '0.0.1'
 
 @frappe.whitelist()
 def test():
-    return "test function"
+    return "test function, change 1"
 
 
